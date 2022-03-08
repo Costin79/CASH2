@@ -21,6 +21,9 @@
 		AC207AFF27D722EA003F4E6E /* GymRating.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC207AFE27D722EA003F4E6E /* GymRating.swift */; };
 		AC207B0127D72440003F4E6E /* GymStaffRating.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC207B0027D72440003F4E6E /* GymStaffRating.swift */; };
 		AC207B0327D72761003F4E6E /* OverallRating.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC207B0227D72761003F4E6E /* OverallRating.swift */; };
+		AC207B0527D7AEA2003F4E6E /* SpaStaffRating.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC207B0427D7AEA2003F4E6E /* SpaStaffRating.swift */; };
+		AC207B0727D7B2AA003F4E6E /* MassageRating.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC207B0627D7B2AA003F4E6E /* MassageRating.swift */; };
+		AC207B0927D7B364003F4E6E /* SpaServicesRating.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC207B0827D7B364003F4E6E /* SpaServicesRating.swift */; };
 		AC522F9327CE5350001010F1 /* ScubaInstructorsRating.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC522F9227CE5350001010F1 /* ScubaInstructorsRating.swift */; };
 		AC522F9527CE54FC001010F1 /* ScubaEquipmentRating.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC522F9427CE54FC001010F1 /* ScubaEquipmentRating.swift */; };
 		AC522F9727CE5A6D001010F1 /* DiningStaffRating.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC522F9627CE5A6D001010F1 /* DiningStaffRating.swift */; };
@@ -81,6 +84,9 @@
 		AC207AFE27D722EA003F4E6E /* GymRating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GymRating.swift; sourceTree = "<group>"; };
 		AC207B0027D72440003F4E6E /* GymStaffRating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GymStaffRating.swift; sourceTree = "<group>"; };
 		AC207B0227D72761003F4E6E /* OverallRating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OverallRating.swift; sourceTree = "<group>"; };
+		AC207B0427D7AEA2003F4E6E /* SpaStaffRating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpaStaffRating.swift; sourceTree = "<group>"; };
+		AC207B0627D7B2AA003F4E6E /* MassageRating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MassageRating.swift; sourceTree = "<group>"; };
+		AC207B0827D7B364003F4E6E /* SpaServicesRating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpaServicesRating.swift; sourceTree = "<group>"; };
 		AC522F9227CE5350001010F1 /* ScubaInstructorsRating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScubaInstructorsRating.swift; sourceTree = "<group>"; };
 		AC522F9427CE54FC001010F1 /* ScubaEquipmentRating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScubaEquipmentRating.swift; sourceTree = "<group>"; };
 		AC522F9627CE5A6D001010F1 /* DiningStaffRating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiningStaffRating.swift; sourceTree = "<group>"; };
@@ -191,6 +197,9 @@
 				AC207AFE27D722EA003F4E6E /* GymRating.swift */,
 				AC207B0027D72440003F4E6E /* GymStaffRating.swift */,
 				AC207B0227D72761003F4E6E /* OverallRating.swift */,
+				AC207B0427D7AEA2003F4E6E /* SpaStaffRating.swift */,
+				AC207B0627D7B2AA003F4E6E /* MassageRating.swift */,
+				AC207B0827D7B364003F4E6E /* SpaServicesRating.swift */,
 			);
 			path = CASH;
 			sourceTree = "<group>";
@@ -361,11 +370,14 @@
 				D09964BE27C9801A004DCBEA /* ViewController.swift in Sources */,
 				84A0C95927D6BA3200086D6B /* roomVisited.swift in Sources */,
 				AC522F9327CE5350001010F1 /* ScubaInstructorsRating.swift in Sources */,
+				AC207B0927D7B364003F4E6E /* SpaServicesRating.swift in Sources */,
 				AC207B0327D72761003F4E6E /* OverallRating.swift in Sources */,
 				D07286F227CFDF600053744B /* ClientsData+CoreDataProperties.swift in Sources */,
+				AC207B0527D7AEA2003F4E6E /* SpaStaffRating.swift in Sources */,
 				D0FBFE4C27D2CB49007F935F /* SignUpVC.swift in Sources */,
 				AC207B0127D72440003F4E6E /* GymStaffRating.swift in Sources */,
 				D09964BA27C9801A004DCBEA /* AppDelegate.swift in Sources */,
+				AC207B0727D7B2AA003F4E6E /* MassageRating.swift in Sources */,
 				AC522F9B27CE5D89001010F1 /* DiningRoomRating.swift in Sources */,
 				AC207AF927D72051003F4E6E /* BathroomRating.swift in Sources */,
 				D09964BC27C9801A004DCBEA /* SceneDelegate.swift in Sources */,
